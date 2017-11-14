@@ -3,6 +3,10 @@
 
 纯JavaScript，不需担心和其他插件冲突。
 
+## demo
+
+https://lazytai.github.io/TGeditor/editor.html
+
 ## 用法
 ### 引用：
 ```
